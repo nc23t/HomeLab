@@ -81,11 +81,10 @@ The lab simulates a real-world scenario where a web server is protected by a WAF
 - Set up a **LAMP stack** with DVWA.  
 - Gained experience with a **Web Application Firewall**.  
 - Implemented **access controls** and firewall rules.  
-- Configured **SSL/TLS** manually.  
+- Configured **Self Signed Cert & Private Key** manually.  
 - Built a strong foundation in **defending web apps** in a controlled lab.
 
 ---
 
-## References
-- [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/)  
+## References 
 - [SafeLine WAF Documentation](https://safeline.com/)  
